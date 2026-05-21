@@ -17,27 +17,6 @@ I have experience working with:
 I enjoy learning new technologies, improving system reliability, and creating scalable solutions.
 
 ---
-
-## Technical Skills
-
-### Languages
-
-* Dart
-* Java
-* SQL
-* JavaScript
-* PHP
-* Bash
-
-### Frameworks & Tools
-
-* Flutter
-* Docker
-* JasperReports
-* Git & GitHub
-* MySQL
-* Linux
-
 ### Concepts
 
 * REST APIs
