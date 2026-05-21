@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, I'm Yassine 👋
 
-<!--
-**Botkraker/Botkraker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a technology enthusiast focused on software development, backend systems, data engineering, and containerized applications. I enjoy building practical solutions, solving infrastructure issues, and working across different parts of the development stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience working with:
+
+* Backend development and APIs
+* Docker and container orchestration
+* Database management with MySQL
+* Reporting and analytics tools such as JasperReports
+* Flutter and Dart application development
+* Linux environments and system troubleshooting
+* Data processing and governance concepts
+
+I enjoy learning new technologies, improving system reliability, and creating scalable solutions.
+
+---
+
+## Technical Skills
+
+### Languages
+
+* Dart
+* Java
+* SQL
+* JavaScript
+* PHP
+* Bash
+
+### Frameworks & Tools
+
+* Flutter
+* Docker
+* JasperReports
+* Git & GitHub
+* MySQL
+* Linux
+
+### Concepts
+
+* REST APIs
+* Database Design
+* Container Networking
+* Debugging & Troubleshooting
+* Data Engineering Basics
+* Reporting & Analytics
+
+---
+
+## What I'm Currently Working On
+
+* Improving backend and database integration skills
+* Building containerized applications using Docker
+* Exploring reporting systems and data visualization
+* Developing cross-platform applications with Flutter
+
+---
+
+## GitHub Stats
+
+<!-- You can replace "yourusername" with your actual GitHub username -->
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+```
+
+```md
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+```
+
+---
+
+## Contact
+
+* Facebook: [https://www.facebook.com/botkraker](https://www.facebook.com/botkraker)
+* Email: [yassinebensassi321@gmail.com](mailto:yassinebensassi321@gmail.com)
+
+---
+
+## Goals
+
+I aim to continue growing as a software engineer by working on impactful projects, improving system architecture knowledge, and contributing to meaningful open-source or collaborative development work.
