@@ -58,19 +58,6 @@ I enjoy learning new technologies, improving system reliability, and creating sc
 
 ---
 
-## GitHub Stats
-
-<!-- You can replace "yourusername" with your actual GitHub username -->
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-```
-
-```md
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-```
-
----
 
 ## Contact
 
